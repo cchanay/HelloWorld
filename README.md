@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-Test
+Test - Hello World iOS application
